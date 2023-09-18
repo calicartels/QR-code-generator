@@ -73,11 +73,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
-
-Give a ⭐️ if this project helped you!
-
-## 📝 License
-
-Copyright © 2021 [N Liraj Khanna](https://github.com/N-liraj-khanna).<br />
-This project is [ISC](https://github.com/N-liraj-khanna/Live-Crypto-CLI/blob/master/LICENSE) licensed.
