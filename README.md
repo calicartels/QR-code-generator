@@ -74,20 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-## Author
-
-
-👤 **N Liraj Khanna**
-
-* Website: https://github.com/N-liraj-khanna
-* Github: [@N-liraj-khanna](https://github.com/N-liraj-khanna)
-* LinkedIn: [@https://www.linkedin.com/in/n-lirajkhanna/](https://www.linkedin.com/in/n-lirajkhanna/)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/N-liraj-khanna/Live-Crypto-CLI/issues). You can also take a look at the [contributing guide](https://github.com/N-liraj-khanna/Live-Crypto-CLI/blob/master/CONTRIBUTING.md).
-
-## Show your support
 
 Give a ⭐️ if this project helped you!
 
